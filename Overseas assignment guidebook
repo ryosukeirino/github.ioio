@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+ <TITLE>Frame</TITLE>
+</HEAD>
+<FRAMESET COLS="20%,80%">
+ <FRAME SRC="Overseas assignment guidebook_sub.html" NAME="F1">
+ <FRAME SRC="Overseas assignment guidebook_main.html" NAME="F2">
+</FRAMESET>
+</HTML>
