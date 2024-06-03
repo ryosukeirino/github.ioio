@@ -1,0 +1,157 @@
+<HTML>
+<head>
+<link rel="stylesheet" type="text/css" href="kaigaishukkouorien_main.css">
+</head>
+<body>
+<p><b>★サンヴァーテックス_人材モビリティ係 海外出向ガイドブック★</b></p>
+<p>　　　～「Ctrl」キー+「F」キーで検索窓を表示。キーワードを入力するとジャンプします。～</p>
+<p>　　　～アンダーバー項目をクリックすると、指定ページへジャンプします。～</p>
+
+<div class="container">
+    <details open="open">
+        <summary>海外出向ガイドブック</summary>
+        <div class="folder">
+            <!--<p>技術分類別</p>-->
+            
+            <details open="open">
+                <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=1" target="_blank">はじめに</a></summary>
+                <p>海外出向は、出発するまでの間に、さまざまな手続き、研修等の準備が必要です。また、不慣れな環境での仕事・生活に対して、不安を感じられているかもしれません。
+                    この「海外出向ガイドブック」は、海外出向される方々に対して、手続等の参考となるように作成しました。海外出向が決まったら、すぐにご覧ください。・・・
+                    </p>
+            </details>
+
+        
+        <details>
+            <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=3" target="_blank">家族帯同の判断</a></summary>
+            <p>海外生活は、家族にとっても日本でできない経験を通じてグローバルな視野を広げるという意味で、大きなメリットがあります。
+                会社は適正な報酬、安全確保、住居・医療・教育の補助など、できるだけのバックアップをします。・・・</p>
+        </details>    
+        
+        <details>
+            <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=9" target="_blank">第1章 海外出向者の心構え</a></summary>
+
+
+            <div class="folder">
+                <details>
+                    <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=10" target="_blank">海外出向者の心がまえ</a></summary>
+                    <div class="folder">
+                <p>多くの日本企業は、
+                    70 年代から 9 0 年代にかけて、中国をはじめとす るアジア地域に進出して、事業のグ
+                    ローバル化を進めてきました。この目的は安価な労働力を活用して低コストで製造した製品を日本市場に逆
+                    輸入する事業モデルでした。太陽誘電グループでも、 ①低生産コスト、②ＣＳの向上 客先・市場の近くで）
+                    などの 理由から海外進出して、多くの海外出向者が海外赴任して、活躍してきました。・・・</p>
+
+
+                    </div>
+                </details>
+                    <details>
+                        <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=10" target="_blank">海外出向者に求めれる知識</a></summary>
+                        <p>出向者が、出向先会社の経営にどの程度携わるか、その役割・責任によって、求められるスキルの必要性
+                            は大きく変ります。ここでは拠点を運営する側の「管理・監督者」の立場として、基本的な知識の理解とし
+                            て記載しています。 詳細を学びたい場合は、 担当部門 に問い合わせして ください。</p>
+
+                    </details>
+                    
+
+                </div>
+            </details>
+            <details open="open">
+                <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=23" target="_blank">第2章 健康管理</a></summary>
+                <p>・・・</p>
+                <div class="folder">
+                    <details>
+                        <summary>医療事情・衛生環境</summary>
+                        <div class="folder">
+                                
+                    <p>・・・</p>
+
+
+                        </div>
+                    </details>
+
+                </div>
+            </details>        
+
+            <details open="open">
+                <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=29" target="_blank">第3章 拠点環境</a></summary>
+                <p>・・・</p>
+                <div class="folder">
+                    <details>
+                        <summary>生活環境</summary>
+                        <div class="folder">
+                                    <details>
+                                        <summary>汎用CAD</summary>
+                                        <div class="folder">
+                                    <p>・・・</p>
+     
+                                        </div>
+                                    </details>
+        
+                                    <details>
+                                        <summary>建築用CAD</summary>
+                                        <div class="folder">
+                                            <p>・・・</p>
+
+                                            
+                                        </div>
+                                    </details>
+
+                                    <details>
+                                        <summary>機械(メカ)用CAD</summary>
+                                        <div class="folder">
+                                            <p>・・・</p>
+
+                                        </div>
+                                    </details>
+
+
+                                </div>
+                            </details>
+
+                        </div>
+                    </details>
+
+                    <details open="open">
+                        <summary><a href="guidebook_kaigaisyukkou2.27.pdf#page=33" target="_blank">第4章 出向準備</a></summary>
+                        <p>・・・</p>
+                        <div class="folder">
+                            <details>
+                                <summary>社内諸手続き（出向前）</summary>
+                                <div class="folder">
+
+                                            <p>・・・</p>
+
+
+                                                </div>
+                                            </details>
+        
+                            <details>
+                                <summary>引越し（出向時）</summary>
+                                <div class="folder">
+                                    <p>・・・</p>
+
+
+                                </div>
+                            </details>
+        
+                            <details>
+                                <summary>自分自身で行う手続き</summary>
+                                <div class="folder">
+                                    <p>・・・</p>
+
+
+                                </div>
+                            </details>
+
+
+                                </div>
+                            </details>
+
+とりあえず叩き台構成の確認なので、第4章まで。
+
+                </div>
+            </details>   
+
+</div>
+</body>
+</HTML>
